@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="gb2312"?>
+<project ver="7" name="mailDownloader" libEmbed="true" icon="..." ui="win" output="快手工程15.exe" CompanyName="单位名称" FileDescription="mailDownloader" LegalCopyright="Copyright (C) 作者 2014" ProductName="mailDownloader" InternalName="mailDownloader" FileVersion="0.0.0.1" ProductVersion="0.0.0.1" publishDir="/Publish/">
+	<file name="main.aau" path="default.main.aau" comment="default.main.aau"/>
+	<folder name="资源文件" path="res" embed="true"/>
+</project>
